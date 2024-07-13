@@ -16,5 +16,8 @@ Go beyond the tourist traps and find places that ignite your soul.
    ```
 3. Customise the website as per your need.
 
+## Preview
 
+Here's a look and feel of the website.
    
+![GlobeHop](https://github.com/user-attachments/assets/4d6ecfe5-179f-4ef3-8894-a62488c9966c)
